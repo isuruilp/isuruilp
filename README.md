@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:7c3aed&height=210&section=header&text=Hi,%20I'm%20Isuru%20Perera&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:7c3aed&height=210&section=header&text=Hi,%20I'm%20Isuru%20Perera&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
 />
 
-Web Developer · WordPress Specialist · Front-End Enthusiast
+### Web Developer · WordPress Specialist · Front-End Enthusiast
 
 <i>Building responsive, high-performance and user-friendly digital experiences.</i>
 
@@ -52,13 +51,16 @@ Web Developer · WordPress Specialist · Front-End Enthusiast
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Web+Developer;WordPress+Developer;Front-End+Developer;WooCommerce+Developer;React+%26+Angular+Developer"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Web+Developer;WordPress+Developer;Front-End+Developer;WooCommerce+Developer;React+%26+Angular+Developer"
 />
 
 </div>
 
-👨‍💻 About Me
+---
 
+## 👨‍💻 About Me
+
+```javascript
 const isuru = {
   name: "Isuru Perera",
   role: "Web Developer",
@@ -87,45 +89,50 @@ const isuru = {
 
   philosophy: "Clean Code. Great UX. High Performance."
 };
+```
 
-I'm a Web Developer with 5+ years of experience building responsive, high-performance and user-friendly websites.
+I'm a Web Developer with **5+ years of experience** building responsive, high-performance and user-friendly websites.
 
-My main focus is developing custom WordPress websites, reusable component systems, WooCommerce solutions and modern web applications using technologies such as PHP, JavaScript, React, Angular and Next.js.
+My main focus is developing custom **WordPress websites**, reusable component systems, WooCommerce solutions and modern web applications using technologies such as **PHP, JavaScript, React, Angular and Next.js**.
 
 I enjoy turning creative UI designs into fast, scalable and maintainable digital experiences.
 
-🚀 Tech Stack & Skills
+---
 
-🎨 Front-End Development
+## 🚀 Tech Stack & Skills
 
+### 🎨 Front-End Development
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+### ⚛️ JavaScript Frameworks
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+### 🧩 WordPress & CMS
 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
-⚛️ JavaScript Frameworks
+### 🛠 Development Tools
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+---
 
-
-
-🧩 WordPress & CMS
-
-
-
-
-
-
-🛠 Development Tools
-
-
-
-
-
-
-
-🧰 Technology Toolbox
+## 🧰 Technology Toolbox
 
 <div align="center">
 
@@ -137,254 +144,160 @@ I enjoy turning creative UI designs into fast, scalable and maintainable digital
 
 <div align="center">
 
-HTML • CSS • SASS • JavaScript • jQuery • PHP • WordPress • WooCommerce
+**HTML • CSS • SASS • JavaScript • jQuery • PHP • WordPress • WooCommerce**
 
-React • Angular • Next.js • Git • GitHub • GitLab • Figma • Jira
+**React • Angular • Next.js • Git • GitHub • GitLab • Figma • Jira**
 
 </div>
 
-🎯 What I Do
+---
 
-🧩 Custom WordPress Development
+## 🎯 What I Do
 
+### 🧩 Custom WordPress Development
 Building custom WordPress websites from scratch using flexible, reusable and maintainable component architectures.
 
-🛒 WooCommerce Development
-
+### 🛒 WooCommerce Development
 Creating customized eCommerce websites, product experiences and WooCommerce functionality.
 
-💻 Front-End Development
-
+### 💻 Front-End Development
 Transforming UI/UX designs into responsive, pixel-perfect and interactive web experiences.
 
-⚛️ Modern Web Applications
-
+### ⚛️ Modern Web Applications
 Building component-based web applications using React, Angular and Next.js.
 
-⚡ Performance Optimization
-
+### ⚡ Performance Optimization
 Improving website performance, responsiveness, usability and overall user experience.
 
-🔧 Maintenance & Debugging
-
+### 🔧 Maintenance & Debugging
 Troubleshooting website issues, maintaining existing projects and improving code quality and stability.
 
-💡 Core Interests
+---
 
-🌐 Modern Web Development
+## 💡 Core Interests
 
-🧩 Custom WordPress Development
+- 🌐 **Modern Web Development**
+- 🧩 **Custom WordPress Development**
+- 🎨 **Front-End Engineering**
+- ⚛️ **React & Angular Applications**
+- 🛒 **WooCommerce & eCommerce**
+- 📱 **Responsive Web Design**
+- ⚡ **Website Performance Optimization**
+- 🧱 **Reusable Component Architecture**
+- 🎯 **UI / UX Implementation**
+- 🧹 **Clean & Maintainable Code**
 
-🎨 Front-End Engineering
+---
 
-⚛️ React & Angular Applications
+## 💼 Professional Experience
 
-🛒 WooCommerce & eCommerce
+### 👨‍💻 Web Developer
+**Web Lankan — Nugegoda**  
+`2024 — Present`
 
-📱 Responsive Web Design
+- Develop custom websites and WordPress projects from scratch using HTML, CSS/SASS, JavaScript, jQuery, PHP and ACF.
+- Build reusable component systems for scalable and maintainable development.
+- Develop custom WordPress websites with component-based architecture.
+- Create responsive, SEO-friendly and high-performance websites.
+- Use GitHub and GitLab for version control and collaboration.
+- Manage development workflows using Jira.
+- Perform website maintenance, debugging and performance improvements.
+- Provide technical mentorship and code reviews for junior developers.
 
-⚡ Website Performance Optimization
+### 💻 Senior Web Developer
+**Angeora Solutions**  
+`2020 — 2024`
 
-🧱 Reusable Component Architecture
+- Developed advanced custom WordPress solutions using SASS, jQuery, PHP and ACF.
+- Built Angular single-page applications.
+- Developed WooCommerce websites and custom eCommerce solutions.
+- Created custom WordPress themes and plugins.
+- Worked with Elementor and other page builders.
 
-🎯 UI / UX Implementation
+### 🎨 Front-End Developer
+**Sevensigns**  
+`2019 — 2020`
 
-🧹 Clean & Maintainable Code
+- Built responsive custom websites and WordPress themes.
+- Worked with HTML, CSS/SASS, JavaScript, jQuery, PHP and ACF.
+- Developed a React-based web application with reusable components.
 
-💼 Professional Experience
+---
 
-👨‍💻 Web Developer
 
-Web Lankan — Nugegoda
-2024 — Present
-
-Develop custom websites and WordPress projects from scratch using HTML, CSS/SASS, JavaScript, jQuery, PHP and ACF.
-
-Build reusable component systems for scalable and maintainable development.
-
-Develop custom WordPress websites with component-based architecture.
-
-Create responsive, SEO-friendly and high-performance websites.
-
-Use GitHub and GitLab for version control and collaboration.
-
-Manage development workflows using Jira.
-
-Perform website maintenance, debugging and performance improvements.
-
-Provide technical mentorship and code reviews for junior developers.
-
-💻 Senior Web Developer
-
-Angeora Solutions
-2020 — 2024
-
-Developed advanced custom WordPress solutions using SASS, jQuery, PHP and ACF.
-
-Built Angular single-page applications.
-
-Developed WooCommerce websites and custom eCommerce solutions.
-
-Created custom WordPress themes and plugins.
-
-Worked with Elementor and other page builders.
-
-🎨 Front-End Developer
-
-Sevensigns
-2019 — 2020
-
-Built responsive custom websites and WordPress themes.
-
-Worked with HTML, CSS/SASS, JavaScript, jQuery, PHP and ACF.
-
-Developed a React-based web application with reusable components.
-
-🌟 Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🏥 Vasan Health Care
-
-Responsive healthcare website.
-
-Website:
-https://vasanhealthcare.lk/
-
-</td>
-
-<td width="50%" valign="top">
-
-🎵 Soundtracks
-
-Modern responsive digital experience.
-
-Website:
-https://soundtracks.lk/
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-🎓 OKI International School
-
-Education-focused responsive website.
-
-Website:
-https://okischool.lk/
-
-</td>
-
-<td width="50%" valign="top">
-
-🏥 NIID
-
-Healthcare web platform.
-
-Website:
-https://niid.health.gov.lk/
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-🎓 SCOT Campus
-
-Responsive educational institution website.
-
-Website:
-https://scot.lk/
-
-</td>
-
-<td width="50%" valign="top">
-
-🎓 Barzan University College
-
-Higher education web platform.
-
-Website:
-https://buc.edu.qa/
-
-</td>
-</tr>
-</table>
+### 👉 [View More Projects](https://isuru-perera.netlify.app/#portfolio)
 
 </div>
 
-<div align="center">
+---
 
-👉 View More Projects
+## 📚 Currently Exploring
 
-</div>
-
-📚 Currently Exploring
-
+```text
 React & Next.js         ████████████████░░░░
 Modern JavaScript       █████████████████░░░
 Web Performance         ██████████████████░░
 Component Architecture  ██████████████████░░
 WordPress Architecture  ███████████████████░
+```
 
-Advanced React patterns
+- Advanced React patterns
+- Next.js development
+- Modern WordPress architecture
+- Web performance optimization
+- Reusable design systems
+- Scalable front-end architecture
 
-Next.js development
+---
 
-Modern WordPress architecture
-
-Web performance optimization
-
-Reusable design systems
-
-Scalable front-end architecture
-
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"
 />
 
 <img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"
 />
 
 </div>
 
-🔥 Contribution Streak
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"
+  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"
 />
 
 </div>
 
-📈 GitHub Activity
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true"
 />
 
 </div>
 
-🤝 Let's Connect
+---
 
-I'm always interested in discussing web development, WordPress, front-end technologies and interesting digital projects.
+## 🤝 Let's Connect
+
+I'm always interested in discussing **web development, WordPress, front-end technologies and interesting digital projects.**
 
 <div align="center">
 
@@ -402,9 +315,11 @@ I'm always interested in discussing web development, WordPress, front-end techno
 
 </div>
 
+---
+
 <div align="center">
 
-💻 Code. Create. Optimize. Repeat.
+### 💻 Code. Create. Optimize. Repeat.
 
 <i>Building better web experiences, one component at a time.</i>
 
@@ -413,3 +328,4 @@ I'm always interested in discussing web development, WordPress, front-end techno
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0ea5e9&height=120&section=footer"/>
 
 </div>
+
